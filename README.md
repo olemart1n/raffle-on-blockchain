@@ -1,7 +1,8 @@
 # Provably random raffle contracts
 
 ## About
-
+This contract uses chainlink VRF & Automation
+___
 This code is to create a provably random smart contract lottery.
 
 1. Users can enter by paying for a ticket.
